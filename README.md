@@ -12,3 +12,5 @@ http://lavonjgreen.github.io/run-buddy/
 
 ## Contribution
 Made by Lavon J Green
+
+## ©️2019 Run Buddy, Inc
